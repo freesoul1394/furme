@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Office table &#8211; Furme</title>
+	<atom:link href="/product-category/furniture/office/office-table/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Shop Online for Furnitures, Home Decors and Lazy Seats</description>
+	<lastBuildDate>Sun, 25 Apr 2021 06:46:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/12/cropped-WhatsApp_Image_2020-12-29_at_11.04.01_AM-removebg-preview-32x32.png</url>
+	<title>Office table &#8211; Furme</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Office table particle board one side cabin</title>
+		<link>/product/office-table-particle-board-one-side-cabin/</link>
+					<comments>/product/office-table-particle-board-one-side-cabin/#respond</comments>
+		
+		<dc:creator><![CDATA[Furme]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2021 07:06:45 +0000</pubDate>
+				<guid isPermaLink="false">https://furme.c.wpstage.net/?post_type=product&#038;p=3330</guid>
+
+					<description><![CDATA[Dimensions: H 30 x W 36  x D 18 (all dimension in inches) Warranty: 12 Months’ Warranty Primary Material: particle board Room Type: Office,Study Room]]></description>
+										<content:encoded><![CDATA[<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Dimensions:</span> <span class="v-prod-comp-dtls-listitem-value pf-text-grey">H 30 x W 36  x D 18 (all dimension in inches)</span></div>
+<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Warranty:</span> <span class="v-prod-comp-dtls-listitem-value pf-text-grey">12 Months’ Warranty</span></div>
+<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Primary Material:</span> particle board</div>
+<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Room Type:</span> Office,<span class="v-prod-comp-dtls-listitem-value pf-text-grey">Study Room</span></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/office-table-particle-board-one-side-cabin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Office table particle board two side cabin</title>
+		<link>/product/office-table-particle-board-two-side/</link>
+					<comments>/product/office-table-particle-board-two-side/#respond</comments>
+		
+		<dc:creator><![CDATA[Furme]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2021 06:47:45 +0000</pubDate>
+				<guid isPermaLink="false">https://furme.c.wpstage.net/?post_type=product&#038;p=3328</guid>
+
+					<description><![CDATA[Dimensions: H 30 x W 48  x D 24 (all dimension in inches) Warranty: 12 Months&#8217; Warranty Primary Material: particle board Room Type: Office,Study Room]]></description>
+										<content:encoded><![CDATA[<div class="v-prod-comp-dtls-listitem"></div>
+<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Dimensions:</span> <span class="v-prod-comp-dtls-listitem-value pf-text-grey">H 30 x W 48  x D 24 (all dimension in inches)</span></div>
+<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Warranty:</span> <span class="v-prod-comp-dtls-listitem-value pf-text-grey">12 Months&#8217; Warranty</span></div>
+<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Primary Material:</span> particle board</div>
+<div class="v-prod-comp-dtls-listitem"><span class="v-prod-comp-dtls-listitem-label">Room Type:</span> Office,<span class="v-prod-comp-dtls-listitem-value pf-text-grey">Study Room</span></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/office-table-particle-board-two-side/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
